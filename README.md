@@ -1,1 +1,1 @@
-E-Commerce Website
+An advanced, responsive, and user-friendly E-commerce Web Application built using React that provides a seamless online shopping experience. This store includes customizable product views, powerful search, intuitive cart management, a full checkout process
